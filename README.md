@@ -42,5 +42,7 @@ Install .Net 8 SDK and Nodejs 18
 			```sh 
 			 cd londonstockexchange.client
 			 npm run dev
-		     Open with url:  https://localhost:50250/
+		         Open with url:  https://localhost:50250/
 			```
+     Demo
+   ![CPT2501281153-1920x945](https://github.com/user-attachments/assets/b2442110-1f10-4c5e-b0dd-7fc13df407ba)

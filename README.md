@@ -28,7 +28,7 @@ Install .Net 8 SDK and Nodejs 18
 	     
 		 UI: https://localhost:50250/ (Reload needed sometimes, API starts to load slow)
 		 API: https://localhost:7261/swagger/index.html
-	or
+	# Or
 	2.  Using command shell navigate to the uses vite config
 		
 		1. API

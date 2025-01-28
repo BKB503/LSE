@@ -38,7 +38,7 @@ Install .Net 8 SDK and Nodejs 18
 			 dotnet run and it will listen on the port 7261 or navigate to https://localhost:7261/swagger/index.html
 			```
 	  
-	   2. UI
+	    2. UI
 			```sh 
 			 cd londonstockexchange.client
 			 npm run dev

@@ -20,21 +20,21 @@ Install .Net 8 SDK and Nodejs 18
 
    ```sh
 	cd londonstockexchange.client
-   npm install
+    npm install
    ```
 
 3. Open the Repo using solution file in the cloned folder 
 	1. Use Visual Studio debug button, launches the two apps one is .net 8 swagger and another on the UI with urls, 1st it will create local certficates please accept it
 	     
-		 UI:https://localhost:50250/ (Reload needed sometimes, API starts to load slow)
-		 API:https://localhost:7261/swagger/index.html
+		 UI: https://localhost:50250/ (Reload needed sometimes, API starts to load slow)
+		 API: https://localhost:7261/swagger/index.html
 	or
 	2.  Using command shell navigate to the uses vite config
 		
 		1. API
        
 			```sh 
-			cd londonstockexchange.client
+			 cd londonstockexchange.client
 			 dotnet run and it will listen on the port 7261 or navigate to https://localhost:7261/swagger/index.html
 			```
 	  
